@@ -3,7 +3,7 @@ import json
 import re
 import time
 
-GROQ_API_KEY = "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"
+GROQ_API_KEY = ""
 GROQ_MODEL = "llama3-70b-8192"
 # GROQ_MODEL = "llama3-8b-8192"
 
@@ -127,3 +127,4 @@ def extract_resume_metadata(text: str, max_retries=5) -> dict:
         print("⚠️ Warning: Model returned invalid JSON. Raw content:")
         print(match.group())
         raise Exception("❌ Could not parse JSON from LLM output.")
+
