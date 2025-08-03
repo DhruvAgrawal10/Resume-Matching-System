@@ -2,7 +2,7 @@ import requests
 import json
 import re
 
-GROQ_API_KEY = "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"
+GROQ_API_KEY = ""
 GROQ_MODEL = "llama3-70b-8192"
 
 GROQ_SYSTEM_PROMPT_JD = {
@@ -170,4 +170,5 @@ def extract_structured_info_groq_jd(jd_text):
     else:
         print("❌ GROQ API Error:", response.status_code, response.text)
         return None
+
 
