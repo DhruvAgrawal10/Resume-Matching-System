@@ -1,0 +1,38 @@
+
+Job Title: Software Engineer
+Location: Bengaluru, India (Hybrid)
+Experience Level: 1–3 years
+Employment Type: Full-time
+Department: Engineering
+
+We are seeking a skilled and motivated Software Engineer to join our development team. The ideal candidate is passionate about building robust, scalable software and has a strong foundation in software engineering principles. You will contribute to the development of backend systems, APIs, and tools that power our core products.
+
+Responsibilities:
+
+* Design, develop, and maintain backend services and APIs
+* Collaborate with frontend developers, designers, and other engineers to deliver complete features
+* Write clean, efficient, and testable code following best practices
+* Participate in code reviews and provide constructive feedback
+* Troubleshoot and resolve issues in development, testing, and production environments
+* Continuously learn and stay updated with new technologies and frameworks
+
+Must-Have Skills:
+
+* Proficiency in one or more programming languages such as Python, Java, or Node.js
+* Experience building RESTful APIs and working with relational databases (e.g., PostgreSQL, MySQL)
+* Strong understanding of data structures, algorithms, and object-oriented design
+* Familiarity with version control tools like Git
+* Good debugging and problem-solving skills
+
+Preferred Skills:
+
+* Experience with cloud platforms (AWS, GCP, or Azure)
+* Familiarity with containerization tools (Docker, Kubernetes)
+* Exposure to CI/CD pipelines and testing frameworks
+* Knowledge of modern frontend frameworks (React, Angular, or Vue) is a plus
+
+Education:
+Bachelor’s degree in Computer Science, Engineering, or a related field
+
+How to Apply:
+Send your resume and GitHub/portfolio link to [careers@techfirm.com](mailto:careers@techfirm.com) with the subject line: Application for Software Engineer
