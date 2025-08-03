@@ -15,7 +15,7 @@ DB_CONFIG = {
     "port": 5433
 }
 
-GROQ_API_KEY = "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"
+GROQ_API_KEY = ""
 GROQ_MODEL = "llama3-70b-8192"
 
 model = SentenceTransformer("intfloat/e5-base")
@@ -209,3 +209,4 @@ def find_matching_resumes(jd_text, top_n=5, date_filter_days=730,needed_local=5)
         print(f"Location Match Type: {match_labels.get(r['match_level'], '❓ Unknown')}")
 
     return filtered
+
